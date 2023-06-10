@@ -1,0 +1,18 @@
+.resgistro[type="button"] {
+    border: none;
+    outline: none;
+    height: 30px;
+    background: #0e8de2;
+    color: #ffffff;
+    font-size: 18px;
+    border-radius: 20px;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    background: url(../img/images.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 200vh;
+  }
